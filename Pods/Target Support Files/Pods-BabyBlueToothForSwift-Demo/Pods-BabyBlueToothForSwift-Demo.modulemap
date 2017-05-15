@@ -1,0 +1,6 @@
+framework module Pods_BabyBlueToothForSwift_Demo {
+  umbrella header "Pods-BabyBlueToothForSwift-Demo-umbrella.h"
+
+  export *
+  module * { export * }
+}
